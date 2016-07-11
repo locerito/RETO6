@@ -1,4 +1,4 @@
 BookAnalytics/.idea
-BookAnalitics/project
-BookAnalitics/target
+BookAnalitics/project/*
+BookAnalitics/target/*
 data
